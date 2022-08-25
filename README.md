@@ -1,2 +1,3 @@
-# school21_projects
-save place for project with branch as single project
+# Quick start
+
+`gcc -Wall -Wextra -Werror -lncurses src/game_of_life.c`
