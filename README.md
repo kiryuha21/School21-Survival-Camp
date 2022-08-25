@@ -1,2 +1,2 @@
-# school21_projects
-save place for project with branch as single project
+# Quick bonus start:
+`gcc -Wall -Wextra -Werror -lncurses src/pong_bonus.c && ./a.out`
